@@ -8,7 +8,7 @@ LigaLeague is a Full-Stack Soccer Themed Formation Visualizer. The application a
 - Kaggle: Data
 - IDE: Intellij IDEA, VS Code
 
-- # Date
-- Summer 2025
+# Date
+Summer 2025
 
 
